@@ -1,5 +1,5 @@
+#include("MCMCplot.jl"); traceplot("MCMC_samples_residual_variance.txt","plotly",4); savefig("plot.png");
 using DelimitedFiles,Plots,Plots.PlotMeasures,StatsPlots
-
 
 function traceplot(file,backend="plotly",nplots=4)
 #catch errors when no backends are installed
