@@ -11,4 +11,4 @@ savefig("plot.png")
 
 3.Choose subset plots, nplots is equal to the number of columns in the file.
 
-4. Save MCMC plots.
+4.Save MCMC plots.
