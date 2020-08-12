@@ -1,1 +1,2 @@
-# Plots
+# Plots.jl
+## MCMC plots function
